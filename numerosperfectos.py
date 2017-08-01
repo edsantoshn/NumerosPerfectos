@@ -1,4 +1,5 @@
 class numerosPerfectos():
+
 	def __init__(self):
 		print('Bienvenido al modulo de numeros perfectos')
 
@@ -29,3 +30,5 @@ class numerosPerfectos():
 		else:
 			print('La lista esta vacia')
 
+temporal = numerosPerfectos()
+temporal.inicio()

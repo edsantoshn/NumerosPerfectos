@@ -7,4 +7,5 @@ Importar el modulo de numerosperfectos.py de la siguiente forma</br>
 import numerosperfectos</br>
 Luego instanciar la clase, una vez instanciada llamar a la metodo inicio</br>
 nperfectos = numerosperfectos()</br>
-nperfectos.inicio()
+nperfectos.inicio()</br>
+Puedes utilizar el codigo que se incluye para testear el algoritmo.
