@@ -9,3 +9,4 @@ Luego instanciar la clase, una vez instanciada llamar a la metodo inicio</br>
 nperfectos = numerosperfectos()</br>
 nperfectos.inicio()</br>
 Puedes utilizar el codigo que se incluye para testear el algoritmo.
+Se incluyo la version con genetators mucho mas rapida y eficiente
